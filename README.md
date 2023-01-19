@@ -2,7 +2,7 @@
 
 ---
 ### Description
-Built a modal UI pattern in React and integrated a Astronomy.
+Built a modal UI pattern in React and integrated a Astronomy API.
 
 ---
 ### Documentation
@@ -38,3 +38,6 @@ src="create-astro.jpg" alt="create" />
 Deployed Link: 
 
 API Link: https://api-project-production-6021.up.railway.app/apod
+
+Deployed Link :
+https://63c9b1b3909dde25b1f59799--clever-hotteok-fba005.netlify.app/
